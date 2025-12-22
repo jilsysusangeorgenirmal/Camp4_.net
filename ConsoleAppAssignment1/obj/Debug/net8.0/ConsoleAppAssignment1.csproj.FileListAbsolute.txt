@@ -1,0 +1,14 @@
+C:\Users\georg\PropelSept2025\ConsoleAppAssignment1Solutions\ConsoleAppAssignment1\obj\Debug\net8.0\ConsoleAppAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\PropelSept2025\ConsoleAppAssignment1Solutions\ConsoleAppAssignment1\obj\Debug\net8.0\ConsoleAppAssignment1.AssemblyInfoInputs.cache
+C:\Users\georg\PropelSept2025\ConsoleAppAssignment1Solutions\ConsoleAppAssignment1\obj\Debug\net8.0\ConsoleAppAssignment1.AssemblyInfo.cs
+C:\Users\georg\PropelSept2025\ConsoleAppAssignment1Solutions\ConsoleAppAssignment1\obj\Debug\net8.0\ConsoleAppAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\georg\PropelSept2025\ConsoleAppAssignment1Solutions\ConsoleAppAssignment1\bin\Debug\net8.0\ConsoleAppAssignment1.exe
+C:\Users\georg\PropelSept2025\ConsoleAppAssignment1Solutions\ConsoleAppAssignment1\bin\Debug\net8.0\ConsoleAppAssignment1.deps.json
+C:\Users\georg\PropelSept2025\ConsoleAppAssignment1Solutions\ConsoleAppAssignment1\bin\Debug\net8.0\ConsoleAppAssignment1.runtimeconfig.json
+C:\Users\georg\PropelSept2025\ConsoleAppAssignment1Solutions\ConsoleAppAssignment1\bin\Debug\net8.0\ConsoleAppAssignment1.dll
+C:\Users\georg\PropelSept2025\ConsoleAppAssignment1Solutions\ConsoleAppAssignment1\bin\Debug\net8.0\ConsoleAppAssignment1.pdb
+C:\Users\georg\PropelSept2025\ConsoleAppAssignment1Solutions\ConsoleAppAssignment1\obj\Debug\net8.0\ConsoleAppAssignment1.dll
+C:\Users\georg\PropelSept2025\ConsoleAppAssignment1Solutions\ConsoleAppAssignment1\obj\Debug\net8.0\refint\ConsoleAppAssignment1.dll
+C:\Users\georg\PropelSept2025\ConsoleAppAssignment1Solutions\ConsoleAppAssignment1\obj\Debug\net8.0\ConsoleAppAssignment1.pdb
+C:\Users\georg\PropelSept2025\ConsoleAppAssignment1Solutions\ConsoleAppAssignment1\obj\Debug\net8.0\ConsoleAppAssignment1.genruntimeconfig.cache
+C:\Users\georg\PropelSept2025\ConsoleAppAssignment1Solutions\ConsoleAppAssignment1\obj\Debug\net8.0\ref\ConsoleAppAssignment1.dll
